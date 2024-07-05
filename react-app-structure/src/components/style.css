@@ -1,0 +1,32 @@
+.nav{
+    background-color :white;
+}
+.ps-sidebar-root{
+    height: 100vh;
+    background-color:#fff;
+    overflow-x: auto;
+    position: fixed !important;
+    top: 0;
+}
+.ps-menu-label{
+    color:#9A9AA9
+    !important;
+    
+}
+.ps-menuitem-root{
+text-align: left;
+}
+.svg-inline--fa {
+    margin-right: 10px;
+}
+.img{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.ml-auto{
+    margin-left: auto;
+}
+.navbar .navbar-nav a{
+    color: #9A9AA9 !important;
+}
+

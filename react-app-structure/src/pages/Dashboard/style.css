@@ -1,0 +1,17 @@
+.main{
+    background-color : #E4FBFB;
+    height: 100vh;
+    overflow: auto;
+   padding: 15px;
+   text-align: left;
+}
+.upload-box{
+    text-align: center;
+}
+.content-wraper{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    place-content: center;
+}
